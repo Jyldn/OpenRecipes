@@ -1,3 +1,6 @@
+html {
+	word-wrap: break-word;
+}
 h1 {
 	text-align: center;
 }
