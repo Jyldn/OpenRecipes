@@ -14,7 +14,7 @@ input {
 	margin-left: 0.5em;
 }
 #bodyDiv {
-	width: 70%;
+	max-width: 850px;
 	margin: auto;
 	text-align: center;
 }
