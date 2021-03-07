@@ -1,0 +1,47 @@
+h1 {
+	text-align: center;
+}
+h2 {
+	padding-top: 2em;
+}
+#headerGif {
+	display: block;
+	margin: auto;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+input {
+	margin-left: 0.5em;
+}
+#bodyDiv {
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+p, ul, td {
+	text-align: left;
+}
+.sepSmall {
+	width: 60%;
+	margin-top:4em;
+}
+#introduction {
+	text-align: center;
+}
+li > img {
+	width: 16px;
+}
+#recentRecipesTable {
+}
+#recentRecipesHeader {
+	padding-top: 1em;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table {
+	width: 100%
+}
+tr {
+	margin:0px;
+}
