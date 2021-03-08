@@ -14,10 +14,5 @@ Anyone can upload a recipe, just keep it under a megabyte. Submit a pull request
 Alternatively, submit your recipe to <a href="mailto:submit@openrecipes.xyz">submit@openrecipes.xyz</a>.
 Feel free to include your own donation links in your submissions. Who knows, someone might really like the recipe.
 
-## Donate
-I don't make any revenue form this website. Donate to support open-source, bloat-, ramble-free recipes (once there's content here).
-
-Bitcoin: bc1qjwsxdrgf9h4sxvdssge83h68effn0q65jcc06rz8ql0fpv78aqsqerzdy2
-
-Monero: 47Bjjf6kNzwfUsxLDx3qGnAUCUGazzDQiVbtJGBrEAx57zcSoMVxecqFruNnYcMWseL6PBdVp3v5eBp83Wpf689c5NNBi5U
-
+## Discussion
+Join us at #openrecipes:matrix.org to discuss the project's development.
