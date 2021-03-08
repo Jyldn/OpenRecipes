@@ -1,77 +1,105 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>OpenRecipes</title>
-	<link rel="stylesheet" href="styles.css">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-  <body>
-	<div id="bodyDiv">
-		<img id="headerGif" width="100em" src="https://66.media.tumblr.com/tumblr_mcrs09qgk41rfjowdo1_500.gif"/>
-		<h1>
-			OpenRecipes
-		</h1>
-		<p id="introduction"><i>We don't care about your life story!</i></br> 
-		This site has no ads or trackers. It has no blog posts. It's just recipes.</br></br> 
-		Anyone is free to upload their recipes and share them, no 'account' is required. Submit new recipes to the <a href="https://github.com/Jyldn/OpenRecipes">Github</a>.
-		</br>
-		Join our Discord server to discuss development of the site: <a href="https://discord.gg/t32C9k5j">https://discord.gg/t32C9k5j</a>
-		</p>
-		<hr>
-		
-		<h2 id="recentRecipesHeader">
-		📜 Recipes
-		</h2>
-		<p>
-		They're all here. Just ctrl+f to find what you're looking for.
-		</p>
-		<table id="recentRecipesTable">
-			<tr>
-				<th style="width:40%">Recipe</th>
-				<th style="width:40%">Author</th>
-				<th style="width:20%">Tags</th>
-			</tr>
-			<tr>
-				<td><a href="recipes/jcbevns_dark_beer_irish_stew.html">jcbevns' Dark Beer Irish Stew</a></td>
-				<td><a href="https://github.com/jcbevns"></a>jcbevns</td>
-				<td>beer, stew, soup, pork</td>
-			</tr>
-			<tr>
-				<td><a href="recipes/matthew's_chicken_jambalaya.html">Chicken Jambalaya</a></td>
-				<td>M.T. Scarbrough</td>
-				<td>sausages, creole, louisiana, rice</td>
-			</tr>
-		</table>
-		<hr class="sepSmall">
-		<h2>
-		✏️ Upload a new recipe
-		</h2>
-		<p>
-		Anyone can upload a recipe, just keep it under a megabyte. Submit a pull request with your recipe to the <a href="https://github.com/Jyldn/openrecipes">Github</a>.
-		<br>Alternatively, submit your recipe to submit@openrecipes.xyz.
-		<br>Feel free to include your own donation links in your submissions. Who knows, someone might really like the recipe.
-		</p>
-		
-		<h2>
-		❤️ Donate
-		</h2>
-		<p>
-		I don't make any revenue from this website. Donate to support open-source, bloat-, ramble-free recipes (once there's content here).
-	
-		</p>
-		
-		<ul>
-			<li>
-				<img src="images/btc.svg">
-				Bitcoin: bc1qjwsxdrgf9h4sxvdssge83h68effn0q65jcc06rz8ql0fpv78aqsqerzdy2
-			</li>
-			<li>
-				<img src="images/xmr.svg">
-				Monero: 47Bjjf6kNzwfUsxLDx3qGnAUCUGazzDQiVbtJGBrEAx57zcSoMVxecqFruNnYcMWseL6PBdVp3v5eBp83Wpf689c5NNBi5U
-			</li>
-		</ul>
-
-	</div>
-  </body>
+<html lang="en">
+	<head>
+		<link rel="shortcut icon" href="./images/openrecipe.gif" type="image/x-icon" />
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="styles.css" />
+		<title>OpenRecipes</title>
+	</head>
+	<body>
+		<header>
+			<h1>OpenRecipes</h1>
+		</header>
+		<div class="header-info">
+			<img src="./images/openrecipe.gif" alt="Open Recipes" class="main-logo" />
+			<i>We don't care about your life story!</i>
+			<p>This site has no ads or trackers. It has no blog posts. It's just recipes.</p>
+			<br />
+			<p>
+				Anyone is free to upload their recipes and share them, no <i>'account'</i> is
+				required. Submit new recipes to the
+				<a
+					href="https://github.com/Jyldn/OpenRecipes"
+					target="_blank"
+					rel="noopener noreferrer"
+					>Github</a
+				>, see the <a href="about.html">about</a> section for more information!
+			</p>
+			<p>
+			 Join our Discord server to discuss development of the site: <a href="https://discord.gg/t32C9k5j">https://discord.gg/t32C9k5j</a> 
+			
+		</div>
+		<main>
+			<h2>📜 Recipes</h2>
+			<div class="recipes">
+				<table>
+					<thead>
+						<tr>
+							<th>Recipe</th>
+							<th>Author</th>
+							<th>Tags</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td><a href="recipes/chicken_soup.html">Chicken Soup</a></td>
+							<td>Recipe King</td>
+							<td>lentils, soup</td>
+						</tr>
+						<tr>
+							<td><a href="#">Bangers & Mash</a></td>
+							<td>R. Stallman</td>
+							<td>sausages, mashed potatoes</td>
+						</tr>
+						<tr>
+							<td>Recipe</td>
+							<td>Author</td>
+							<td>Tags</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="upload-info">
+				<h3>✏️ Upload a new recipe</h3>
+				<br />
+				<p>
+					Anyone can upload a recipe, just keep it under a megabyte. Submit a pull request
+					with your recipe to the
+					<a
+						href="https://github.com/Jyldn/openrecipes"
+						target="_blank"
+						rel="noopener noreferrer"
+						>Github</a
+					>. 
+					<br />
+					Alternatively, submit your recipe
+					<a href="mailto:submit@openrecipes.xyz">via mail</a> to
+					<i>submit@openrecipes.xyz</i>. 
+					<br />
+					Feel free to include your own donation links in
+					your submissions. Who knows, someone might really like the recipe.
+				</p>
+			</div>
+			<div class="donate">
+				<h3>❤️ Donate</h3>
+				<br />
+				I don't make any revenue form this website. Donate to support open-source, bloat-, ramble-free recipes (once there's content here).
+					
+				</p>
+				<div class="donate-crypto">
+						<div>
+							<img src="images/btc.svg" alt="Bitcoin">
+							<p>bc1qjwsxdrgf9h4sxvdssge83h68effn0q65jcc06rz8ql0fpv78aqsqerzdy2</p>
+						</div>
+						<div>
+							<img src="images/xmr.svg" alt="Monero">
+							<p>47Bjjf6kNzwfUsxLDx3qGnAUCUGazzDQiVbtJGBrEAx57zcSoMVxecqFruNnYcMWseL6PBdVp3v5eBp83Wpf689c5NNBi5U</p>
+						</div>
+					
+				</div>
+			</div>
+		</main>
+	</body>
 </html>
