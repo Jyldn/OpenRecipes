@@ -1,5 +1,8 @@
 !Name: Dundee cake
 
+Description:
+![Dundee cake](https://www.themealdb.com/images/media/meals/wxyvqq1511723401.jpg "Dundee cake")
+
 Ingredients:
 - Almonds
 - Butter

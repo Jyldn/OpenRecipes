@@ -1,5 +1,8 @@
 !Name: Osso Buco alla Milanese
 
+Description:
+![Osso Buco alla Milanese](https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg "Osso Buco alla Milanese")
+
 Ingredients:
 - Veal
 - Flour

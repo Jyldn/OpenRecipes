@@ -1,5 +1,8 @@
 !Name: Pizza Express Margherita
 
+Description:
+![Pizza Express Margherita](https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg "Pizza Express Margherita")
+
 Ingredients:
 - Water
 - Sugar

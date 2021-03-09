@@ -1,5 +1,8 @@
 !Name: Lamb Biryani
 
+Description:
+![Lamb Biryani](https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg "Lamb Biryani")
+
 Ingredients:
 - Cashew nuts
 - Khus khus

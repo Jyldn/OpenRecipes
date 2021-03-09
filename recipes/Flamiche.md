@@ -1,5 +1,8 @@
 !Name: Flamiche
 
+Description:
+![Flamiche](https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg "Flamiche")
+
 Ingredients:
 - Butter
 - Leek

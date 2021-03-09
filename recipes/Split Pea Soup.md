@@ -1,5 +1,8 @@
 !Name: Split Pea Soup
 
+Description:
+![Split Pea Soup](https://www.themealdb.com/images/media/meals/xxtsvx1511814083.jpg "Split Pea Soup")
+
 Ingredients:
 - Ham
 - Peas

@@ -1,5 +1,8 @@
 !Name: Clam chowder
 
+Description:
+![Clam chowder](https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg "Clam chowder")
+
 Ingredients:
 - Clams
 - Butter

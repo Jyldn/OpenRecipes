@@ -1,5 +1,8 @@
 !Name: Potato Gratin with Chicken
 
+Description:
+![Potato Gratin with Chicken](https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg "Potato Gratin with Chicken")
+
 Ingredients:
 - Potatoes
 - Onions

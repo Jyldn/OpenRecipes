@@ -1,5 +1,8 @@
 !Name: Koshari
 
+Description:
+![Koshari](https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg "Koshari")
+
 Ingredients:
 - Brown Lentils
 - Rice

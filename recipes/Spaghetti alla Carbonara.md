@@ -1,5 +1,8 @@
 !Name: Spaghetti alla Carbonara
 
+Description:
+![Spaghetti alla Carbonara](https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg "Spaghetti alla Carbonara")
+
 Ingredients:
 - Spaghetti
 - Egg Yolks

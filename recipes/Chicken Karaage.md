@@ -1,5 +1,8 @@
 !Name: Chicken Karaage
 
+Description:
+![Chicken Karaage](https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg "Chicken Karaage")
+
 Ingredients:
 - Chicken thigh
 - Ginger

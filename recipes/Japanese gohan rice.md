@@ -1,5 +1,8 @@
 !Name: Japanese gohan rice
 
+Description:
+![Japanese gohan rice](https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg "Japanese gohan rice")
+
 Ingredients:
 - Sushi Rice
 - Mirin

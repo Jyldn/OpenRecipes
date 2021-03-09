@@ -1,5 +1,8 @@
 !Name: Callaloo Jamaican Style
 
+Description:
+![Callaloo Jamaican Style](https://www.themealdb.com/images/media/meals/ussyxw1515364536.jpg "Callaloo Jamaican Style")
+
 Ingredients:
 - Kale
 - Bacon

@@ -1,5 +1,8 @@
 !Name: Baingan Bharta
 
+Description:
+![Baingan Bharta](https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg "Baingan Bharta")
+
 Ingredients:
 - Aubergine
 - Onion

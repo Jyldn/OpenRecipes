@@ -1,5 +1,8 @@
 !Name: Tunisian Lamb Soup
 
+Description:
+![Tunisian Lamb Soup](https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg "Tunisian Lamb Soup")
+
 Ingredients:
 - Lamb Mince
 - Garlic

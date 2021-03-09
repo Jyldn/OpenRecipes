@@ -1,5 +1,8 @@
 !Name: Christmas Pudding Trifle
 
+Description:
+![Christmas Pudding Trifle](https://www.themealdb.com/images/media/meals/r33cud1576791081.jpg "Christmas Pudding Trifle")
+
 Ingredients:
 - Orange
 - Demerara Sugar

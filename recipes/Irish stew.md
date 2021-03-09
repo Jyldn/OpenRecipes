@@ -1,5 +1,8 @@
 !Name: Irish stew
 
+Description:
+![Irish stew](https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg "Irish stew")
+
 Ingredients:
 - whole wheat
 - lamb loin chops

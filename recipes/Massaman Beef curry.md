@@ -1,5 +1,8 @@
 !Name: Massaman Beef curry
 
+Description:
+![Massaman Beef curry](https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg "Massaman Beef curry")
+
 Ingredients:
 - Peanuts
 - Coconut cream

@@ -1,5 +1,8 @@
 !Name: Baked salmon with fennel & tomatoes
 
+Description:
+![Baked salmon with fennel & tomatoes](https://www.themealdb.com/images/media/meals/1548772327.jpg "Baked salmon with fennel & tomatoes")
+
 Ingredients:
 - Fennel
 - Parsley

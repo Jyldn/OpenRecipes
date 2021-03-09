@@ -1,5 +1,8 @@
 !Name: Beef stroganoff
 
+Description:
+![Beef stroganoff](https://www.themealdb.com/images/media/meals/svprys1511176755.jpg "Beef stroganoff")
+
 Ingredients:
 - Olive Oil
 - Onions

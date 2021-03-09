@@ -1,5 +1,8 @@
 !Name: Chocolate Avocado Mousse
 
+Description:
+![Chocolate Avocado Mousse](https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg "Chocolate Avocado Mousse")
+
 Ingredients:
 - Banana
 - Cacao

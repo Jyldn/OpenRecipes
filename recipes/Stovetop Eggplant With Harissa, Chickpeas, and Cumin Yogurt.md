@@ -1,5 +1,8 @@
 !Name: Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt
 
+Description:
+![Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt](https://www.themealdb.com/images/media/meals/yqwtvu1487426027.jpg "Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt")
+
 Ingredients:
 - Olive Oil
 - Egg Plants

@@ -1,5 +1,8 @@
 !Name: Chocolate Gateau
 
+Description:
+![Chocolate Gateau](https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg "Chocolate Gateau")
+
 Ingredients:
 - Plain chocolate
 - Butter

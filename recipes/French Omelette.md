@@ -1,5 +1,8 @@
 !Name: French Omelette
 
+Description:
+![French Omelette](https://www.themealdb.com/images/media/meals/yvpuuy1511797244.jpg "French Omelette")
+
 Ingredients:
 - Eggs
 - Butter

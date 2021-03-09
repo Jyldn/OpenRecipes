@@ -1,5 +1,8 @@
 !Name: Sweet and Sour Pork
 
+Description:
+![Sweet and Sour Pork](https://www.themealdb.com/images/media/meals/1529442316.jpg "Sweet and Sour Pork")
+
 Ingredients:
 - Pork
 - Egg

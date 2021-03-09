@@ -1,5 +1,8 @@
 !Name: Madeira Cake
 
+Description:
+![Madeira Cake](https://www.themealdb.com/images/media/meals/urtqut1511723591.jpg "Madeira Cake")
+
 Ingredients:
 - Butter
 - Caster Sugar

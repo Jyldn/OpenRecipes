@@ -1,5 +1,8 @@
 !Name: Lamb Tagine
 
+Description:
+![Lamb Tagine](https://www.themealdb.com/images/media/meals/yuwtuu1511295751.jpg "Lamb Tagine")
+
 Ingredients:
 - Olive Oil
 - Onion

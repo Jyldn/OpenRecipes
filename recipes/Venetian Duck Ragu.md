@@ -1,5 +1,8 @@
 !Name: Venetian Duck Ragu
 
+Description:
+![Venetian Duck Ragu](https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg "Venetian Duck Ragu")
+
 Ingredients:
 - Olive Oil
 - Duck Legs

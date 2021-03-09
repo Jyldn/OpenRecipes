@@ -1,5 +1,8 @@
 !Name: Three Fish Pie
 
+Description:
+![Three Fish Pie](https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg "Three Fish Pie")
+
 Ingredients:
 - Potatoes
 - Butter

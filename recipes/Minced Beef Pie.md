@@ -1,5 +1,8 @@
 !Name: Minced Beef Pie
 
+Description:
+![Minced Beef Pie](https://www.themealdb.com/images/media/meals/xwutvy1511555540.jpg "Minced Beef Pie")
+
 Ingredients:
 - Vegetable Oil
 - Minced Beef

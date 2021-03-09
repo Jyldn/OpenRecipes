@@ -1,5 +1,8 @@
 !Name: Jam Roly-Poly
 
+Description:
+![Jam Roly-Poly](https://www.themealdb.com/images/media/meals/ysqupp1511640538.jpg "Jam Roly-Poly")
+
 Ingredients:
 - Butter
 - Self-raising Flour

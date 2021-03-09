@@ -1,5 +1,8 @@
 !Name: Peanut Butter Cheesecake
 
+Description:
+![Peanut Butter Cheesecake](https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg "Peanut Butter Cheesecake")
+
 Ingredients:
 - Butter
 - Peanut Cookies

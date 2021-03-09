@@ -1,5 +1,8 @@
 !Name: Christmas Pudding Flapjack
 
+Description:
+![Christmas Pudding Flapjack](https://www.themealdb.com/images/media/meals/vvusxs1483907034.jpg "Christmas Pudding Flapjack")
+
 Ingredients:
 - salted butter
 - dark soft brown sugar

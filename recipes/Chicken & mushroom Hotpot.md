@@ -1,5 +1,8 @@
 !Name: Chicken & mushroom Hotpot
 
+Description:
+![Chicken & mushroom Hotpot](https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg "Chicken & mushroom Hotpot")
+
 Ingredients:
 - Butter
 - Onion

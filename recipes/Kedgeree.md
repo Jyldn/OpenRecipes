@@ -1,5 +1,8 @@
 !Name: Kedgeree
 
+Description:
+![Kedgeree](https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg "Kedgeree")
+
 Ingredients:
 - Smoked Haddock
 - Bay Leaves

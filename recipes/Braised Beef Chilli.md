@@ -1,5 +1,8 @@
 !Name: Braised Beef Chilli
 
+Description:
+![Braised Beef Chilli](https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg "Braised Beef Chilli")
+
 Ingredients:
 - Beef
 - Onions

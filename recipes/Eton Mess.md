@@ -1,5 +1,8 @@
 !Name: Eton Mess
 
+Description:
+![Eton Mess](https://www.themealdb.com/images/media/meals/uuxwvq1483907861.jpg "Eton Mess")
+
 Ingredients:
 - strawberries
 - double cream

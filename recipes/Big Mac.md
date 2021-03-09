@@ -1,5 +1,8 @@
 !Name: Big Mac
 
+Description:
+![Big Mac](https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg "Big Mac")
+
 Ingredients:
 - Minced Beef
 - Olive Oil

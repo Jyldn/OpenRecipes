@@ -1,5 +1,8 @@
 !Name: Pate Chinois
 
+Description:
+![Pate Chinois](https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg "Pate Chinois")
+
 Ingredients:
 - Potatoes
 - Butter

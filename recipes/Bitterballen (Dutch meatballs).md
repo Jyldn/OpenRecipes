@@ -1,5 +1,8 @@
 !Name: Bitterballen (Dutch meatballs)
 
+Description:
+![Bitterballen (Dutch meatballs)](https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg "Bitterballen (Dutch meatballs)")
+
 Ingredients:
 - Butter
 - Flour

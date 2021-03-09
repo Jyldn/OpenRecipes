@@ -1,5 +1,8 @@
 !Name: Lancashire hotpot
 
+Description:
+![Lancashire hotpot](https://www.themealdb.com/images/media/meals/uttrxw1511637813.jpg "Lancashire hotpot")
+
 Ingredients:
 - Butter
 - Lamb

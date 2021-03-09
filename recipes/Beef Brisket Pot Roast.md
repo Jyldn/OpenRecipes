@@ -1,5 +1,8 @@
 !Name: Beef Brisket Pot Roast
 
+Description:
+![Beef Brisket Pot Roast](https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg "Beef Brisket Pot Roast")
+
 Ingredients:
 - Beef Brisket
 - Salt

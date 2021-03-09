@@ -1,5 +1,8 @@
 !Name: Chick-Fil-A Sandwich
 
+Description:
+![Chick-Fil-A Sandwich](https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg "Chick-Fil-A Sandwich")
+
 Ingredients:
 - Chicken Breast
 - Pickle Juice

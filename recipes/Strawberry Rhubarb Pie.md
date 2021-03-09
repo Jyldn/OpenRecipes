@@ -1,5 +1,8 @@
 !Name: Strawberry Rhubarb Pie
 
+Description:
+![Strawberry Rhubarb Pie](https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg "Strawberry Rhubarb Pie")
+
 Ingredients:
 - Flour
 - Salt

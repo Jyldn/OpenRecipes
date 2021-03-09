@@ -1,5 +1,8 @@
 !Name: Kafteji
 
+Description:
+![Kafteji](https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg "Kafteji")
+
 Ingredients:
 - Potatoes
 - Olive Oil

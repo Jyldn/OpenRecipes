@@ -1,5 +1,8 @@
 !Name: Snert (Dutch Split Pea Soup)
 
+Description:
+![Snert (Dutch Split Pea Soup)](https://www.themealdb.com/images/media/meals/9ptx0a1565090843.jpg "Snert (Dutch Split Pea Soup)")
+
 Ingredients:
 - Water
 - Peas

@@ -1,5 +1,8 @@
 !Name: Moussaka
 
+Description:
+![Moussaka](https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg "Moussaka")
+
 Ingredients:
 - Beef
 - Aubergine

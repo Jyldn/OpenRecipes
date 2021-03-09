@@ -1,5 +1,8 @@
 !Name: Lamb and Potato pie
 
+Description:
+![Lamb and Potato pie](https://www.themealdb.com/images/media/meals/sxrpws1511555907.jpg "Lamb and Potato pie")
+
 Ingredients:
 - Lamb Shoulder
 - Flour

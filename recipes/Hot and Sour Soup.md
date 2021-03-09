@@ -1,5 +1,8 @@
 !Name: Hot and Sour Soup
 
+Description:
+![Hot and Sour Soup](https://www.themealdb.com/images/media/meals/1529445893.jpg "Hot and Sour Soup")
+
 Ingredients:
 - Mushrooms
 - Wood Ear Mushrooms

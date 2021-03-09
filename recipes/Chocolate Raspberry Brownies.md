@@ -1,5 +1,8 @@
 !Name: Chocolate Raspberry Brownies
 
+Description:
+![Chocolate Raspberry Brownies](https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg "Chocolate Raspberry Brownies")
+
 Ingredients:
 - Dark Chocolate
 - Milk Chocolate

@@ -1,5 +1,8 @@
 !Name: Hot Chocolate Fudge
 
+Description:
+![Hot Chocolate Fudge](https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg "Hot Chocolate Fudge")
+
 Ingredients:
 - Chocolate Chips
 - Heavy Cream

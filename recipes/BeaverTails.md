@@ -1,5 +1,8 @@
 !Name: BeaverTails
 
+Description:
+![BeaverTails](https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg "BeaverTails")
+
 Ingredients:
 - Water
 - Yeast

@@ -1,5 +1,8 @@
 !Name: Bigos (Hunters Stew)
 
+Description:
+![Bigos (Hunters Stew)](https://www.themealdb.com/images/media/meals/md8w601593348504.jpg "Bigos (Hunters Stew)")
+
 Ingredients:
 - Bacon
 - Kielbasa

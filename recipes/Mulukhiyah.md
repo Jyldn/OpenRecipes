@@ -1,5 +1,8 @@
 !Name: Mulukhiyah
 
+Description:
+![Mulukhiyah](https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg "Mulukhiyah")
+
 Ingredients:
 - Mulukhiyah
 - Onion

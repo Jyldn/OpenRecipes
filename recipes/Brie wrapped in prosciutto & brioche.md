@@ -1,5 +1,8 @@
 !Name: Brie wrapped in prosciutto & brioche
 
+Description:
+![Brie wrapped in prosciutto & brioche](https://www.themealdb.com/images/media/meals/qqpwsy1511796276.jpg "Brie wrapped in prosciutto & brioche")
+
 Ingredients:
 - Plain Flour
 - Caster Sugar

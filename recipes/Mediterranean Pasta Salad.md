@@ -1,5 +1,8 @@
 !Name: Mediterranean Pasta Salad
 
+Description:
+![Mediterranean Pasta Salad](https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg "Mediterranean Pasta Salad")
+
 Ingredients:
 - mozzarella balls
 - baby plum tomatoes

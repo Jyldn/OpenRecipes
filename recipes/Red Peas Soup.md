@@ -1,5 +1,8 @@
 !Name: Red Peas Soup
 
+Description:
+![Red Peas Soup](https://www.themealdb.com/images/media/meals/sqpqtp1515365614.jpg "Red Peas Soup")
+
 Ingredients:
 - Kidney Beans
 - Carrots

@@ -1,5 +1,8 @@
 !Name: Pierogi (Polish Dumplings)
 
+Description:
+![Pierogi (Polish Dumplings)](https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg "Pierogi (Polish Dumplings)")
+
 Ingredients:
 - Butter
 - Chopped Onion

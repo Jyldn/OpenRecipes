@@ -1,5 +1,8 @@
 !Name: Salmon Avocado Salad
 
+Description:
+![Salmon Avocado Salad](https://www.themealdb.com/images/media/meals/1549542994.jpg "Salmon Avocado Salad")
+
 Ingredients:
 - Salmon
 - Avocado

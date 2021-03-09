@@ -1,5 +1,8 @@
 !Name: Egyptian Fatteh
 
+Description:
+![Egyptian Fatteh](https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg "Egyptian Fatteh")
+
 Ingredients:
 - Beef
 - Onion

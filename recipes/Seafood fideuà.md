@@ -1,5 +1,8 @@
 !Name: Seafood fideuà
 
+Description:
+![Seafood fideuà](https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg "Seafood fideuà")
+
 Ingredients:
 - Mussels
 - Prawns

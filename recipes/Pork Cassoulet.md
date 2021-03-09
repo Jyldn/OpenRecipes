@@ -1,5 +1,8 @@
 !Name: Pork Cassoulet
 
+Description:
+![Pork Cassoulet](https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg "Pork Cassoulet")
+
 Ingredients:
 - Goose Fat
 - Pork

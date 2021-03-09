@@ -1,5 +1,8 @@
 !Name: Fish pie
 
+Description:
+![Fish pie](https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg "Fish pie")
+
 Ingredients:
 - Floury Potatoes
 - Olive Oil

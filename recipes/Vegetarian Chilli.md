@@ -1,5 +1,8 @@
 !Name: Vegetarian Chilli
 
+Description:
+![Vegetarian Chilli](https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg "Vegetarian Chilli")
+
 Ingredients:
 - Roasted Vegetables
 - Kidney Beans

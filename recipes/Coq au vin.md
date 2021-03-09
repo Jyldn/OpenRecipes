@@ -1,5 +1,8 @@
 !Name: Coq au vin
 
+Description:
+![Coq au vin](https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg "Coq au vin")
+
 Ingredients:
 - Olive Oil
 - Bacon

@@ -1,5 +1,8 @@
 !Name: Lamb tomato and sweet spices
 
+Description:
+![Lamb tomato and sweet spices](https://www.themealdb.com/images/media/meals/qtwtss1468572261.jpg "Lamb tomato and sweet spices")
+
 Ingredients:
 - olive oil
 - ginger

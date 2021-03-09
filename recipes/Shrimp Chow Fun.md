@@ -1,5 +1,8 @@
 !Name: Shrimp Chow Fun
 
+Description:
+![Shrimp Chow Fun](https://www.themealdb.com/images/media/meals/1529445434.jpg "Shrimp Chow Fun")
+
 Ingredients:
 - Rice Stick Noodles
 - Prawns

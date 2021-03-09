@@ -1,5 +1,8 @@
 !Name: Spotted Dick
 
+Description:
+![Spotted Dick](https://www.themealdb.com/images/media/meals/xqvyqr1511638875.jpg "Spotted Dick")
+
 Ingredients:
 - Self-raising Flour
 - Salt

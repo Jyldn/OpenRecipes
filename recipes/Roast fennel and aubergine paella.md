@@ -1,5 +1,8 @@
 !Name: Roast fennel and aubergine paella
 
+Description:
+![Roast fennel and aubergine paella](https://www.themealdb.com/images/media/meals/1520081754.jpg "Roast fennel and aubergine paella")
+
 Ingredients:
 - Baby Aubergine
 - Fennel

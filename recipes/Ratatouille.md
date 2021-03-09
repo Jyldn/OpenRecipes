@@ -1,5 +1,8 @@
 !Name: Ratatouille
 
+Description:
+![Ratatouille](https://www.themealdb.com/images/media/meals/wrpwuu1511786491.jpg "Ratatouille")
+
 Ingredients:
 - Aubergine
 - Courgettes

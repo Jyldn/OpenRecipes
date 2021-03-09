@@ -1,5 +1,8 @@
 !Name: Bean & Sausage Hotpot
 
+Description:
+![Bean & Sausage Hotpot](https://www.themealdb.com/images/media/meals/vxuyrx1511302687.jpg "Bean & Sausage Hotpot")
+
 Ingredients:
 - Sausages
 - Tomato Sauce

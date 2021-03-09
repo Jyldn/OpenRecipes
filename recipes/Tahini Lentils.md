@@ -1,5 +1,8 @@
 !Name: Tahini Lentils
 
+Description:
+![Tahini Lentils](https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg "Tahini Lentils")
+
 Ingredients:
 - Tahini
 - Lemon

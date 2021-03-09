@@ -1,5 +1,8 @@
 !Name: Sugar Pie
 
+Description:
+![Sugar Pie](https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg "Sugar Pie")
+
 Ingredients:
 - Brown Sugar
 - Butter

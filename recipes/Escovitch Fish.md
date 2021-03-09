@@ -1,5 +1,8 @@
 !Name: Escovitch Fish
 
+Description:
+![Escovitch Fish](https://www.themealdb.com/images/media/meals/1520084413.jpg "Escovitch Fish")
+
 Ingredients:
 - Red Snapper
 - Vegetable Oil

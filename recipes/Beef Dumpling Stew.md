@@ -1,5 +1,8 @@
 !Name: Beef Dumpling Stew
 
+Description:
+![Beef Dumpling Stew](https://www.themealdb.com/images/media/meals/uyqrrv1511553350.jpg "Beef Dumpling Stew")
+
 Ingredients:
 - Olive Oil
 - Butter

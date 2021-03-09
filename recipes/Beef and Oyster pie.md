@@ -1,5 +1,8 @@
 !Name: Beef and Oyster pie
 
+Description:
+![Beef and Oyster pie](https://www.themealdb.com/images/media/meals/wrssvt1511556563.jpg "Beef and Oyster pie")
+
 Ingredients:
 - Beef
 - Olive Oil

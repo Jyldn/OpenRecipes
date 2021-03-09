@@ -1,5 +1,8 @@
 !Name: Chicken Basquaise
 
+Description:
+![Chicken Basquaise](https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg "Chicken Basquaise")
+
 Ingredients:
 - Chicken
 - Butter

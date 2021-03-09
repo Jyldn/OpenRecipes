@@ -1,5 +1,8 @@
 !Name: Sticky Toffee Pudding Ultimate
 
+Description:
+![Sticky Toffee Pudding Ultimate](https://www.themealdb.com/images/media/meals/xrptpq1483909204.jpg "Sticky Toffee Pudding Ultimate")
+
 Ingredients:
 - Medjool dates
 - water

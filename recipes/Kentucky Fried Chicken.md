@@ -1,5 +1,8 @@
 !Name: Kentucky Fried Chicken
 
+Description:
+![Kentucky Fried Chicken](https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg "Kentucky Fried Chicken")
+
 Ingredients:
 - Chicken
 - Oil

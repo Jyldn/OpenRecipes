@@ -1,5 +1,8 @@
 !Name: Garides Saganaki
 
+Description:
+![Garides Saganaki](https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg "Garides Saganaki")
+
 Ingredients:
 - Raw king prawns
 - Olive oil

@@ -1,5 +1,8 @@
 !Name: Fish fofos
 
+Description:
+![Fish fofos](https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg "Fish fofos")
+
 Ingredients:
 - Haddock
 - Potatoes

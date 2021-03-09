@@ -1,5 +1,8 @@
 !Name: Beef Wellington
 
+Description:
+![Beef Wellington](https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg "Beef Wellington")
+
 Ingredients:
 - mushrooms
 - English Mustard

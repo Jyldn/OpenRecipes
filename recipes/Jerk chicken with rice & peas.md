@@ -1,5 +1,8 @@
 !Name: Jerk chicken with rice & peas
 
+Description:
+![Jerk chicken with rice & peas](https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg "Jerk chicken with rice & peas")
+
 Ingredients:
 - Chicken Thighs
 - Lime

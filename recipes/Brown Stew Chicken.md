@@ -1,5 +1,8 @@
 !Name: Brown Stew Chicken
 
+Description:
+![Brown Stew Chicken](https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg "Brown Stew Chicken")
+
 Ingredients:
 - Chicken
 - Tomato

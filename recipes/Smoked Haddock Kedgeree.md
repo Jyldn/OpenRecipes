@@ -1,5 +1,8 @@
 !Name: Smoked Haddock Kedgeree
 
+Description:
+![Smoked Haddock Kedgeree](https://www.themealdb.com/images/media/meals/1550441275.jpg "Smoked Haddock Kedgeree")
+
 Ingredients:
 - Butter
 - Onion

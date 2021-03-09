@@ -1,5 +1,8 @@
 !Name: Stuffed Lamb Tomatoes
 
+Description:
+![Stuffed Lamb Tomatoes](https://www.themealdb.com/images/media/meals/u55lbp1585564013.jpg "Stuffed Lamb Tomatoes")
+
 Ingredients:
 - Tomatoes
 - Sugar

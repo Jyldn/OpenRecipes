@@ -1,5 +1,8 @@
 !Name: Mustard champ
 
+Description:
+![Mustard champ](https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg "Mustard champ")
+
 Ingredients:
 - Potatoes
 - Milk

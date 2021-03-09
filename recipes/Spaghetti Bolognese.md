@@ -1,5 +1,8 @@
 !Name: Spaghetti Bolognese
 
+Description:
+![Spaghetti Bolognese](https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg "Spaghetti Bolognese")
+
 Ingredients:
 - onions
 - olive oil

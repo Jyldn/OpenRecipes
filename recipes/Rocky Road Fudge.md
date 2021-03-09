@@ -1,5 +1,8 @@
 !Name: Rocky Road Fudge
 
+Description:
+![Rocky Road Fudge](https://www.themealdb.com/images/media/meals/vtxyxv1483567157.jpg "Rocky Road Fudge")
+
 Ingredients:
 - Miniature Marshmallows
 - Chocolate Chips

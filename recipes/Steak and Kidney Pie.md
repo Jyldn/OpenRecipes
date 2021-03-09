@@ -1,5 +1,8 @@
 !Name: Steak and Kidney Pie
 
+Description:
+![Steak and Kidney Pie](https://www.themealdb.com/images/media/meals/qysyss1511558054.jpg "Steak and Kidney Pie")
+
 Ingredients:
 - Puff Pastry
 - Egg White

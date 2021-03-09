@@ -1,5 +1,8 @@
 !Name: Chocolate Caramel Crispy
 
+Description:
+![Chocolate Caramel Crispy](https://www.themealdb.com/images/media/meals/1550442508.jpg "Chocolate Caramel Crispy")
+
 Ingredients:
 - Mars Bar
 - Butter

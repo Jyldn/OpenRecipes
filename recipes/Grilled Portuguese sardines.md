@@ -1,5 +1,8 @@
 !Name: Grilled Portuguese sardines
 
+Description:
+![Grilled Portuguese sardines](https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg "Grilled Portuguese sardines")
+
 Ingredients:
 - Sardines
 - Olive Oil

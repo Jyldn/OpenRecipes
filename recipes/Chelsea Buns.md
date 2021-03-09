@@ -1,5 +1,8 @@
 !Name: Chelsea Buns
 
+Description:
+![Chelsea Buns](https://www.themealdb.com/images/media/meals/vqpwrv1511723001.jpg "Chelsea Buns")
+
 Ingredients:
 - White Flour
 - Salt

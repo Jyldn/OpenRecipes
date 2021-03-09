@@ -1,5 +1,8 @@
 !Name: Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber
 
+Description:
+![Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber](https://www.themealdb.com/images/media/meals/z0ageb1583189517.jpg "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber")
+
 Ingredients:
 - Rice
 - Onion

@@ -1,5 +1,8 @@
 !Name: Rappie Pie
 
+Description:
+![Rappie Pie](https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg "Rappie Pie")
+
 Ingredients:
 - Butter
 - Onions

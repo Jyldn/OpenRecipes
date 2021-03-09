@@ -1,5 +1,8 @@
 !Name: Szechuan Beef
 
+Description:
+![Szechuan Beef](https://www.themealdb.com/images/media/meals/1529443236.jpg "Szechuan Beef")
+
 Ingredients:
 - Beef
 - Salt

@@ -1,5 +1,8 @@
 !Name: Recheado Masala Fish
 
+Description:
+![Recheado Masala Fish](https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg "Recheado Masala Fish")
+
 Ingredients:
 - Mackerel
 - Red Chili

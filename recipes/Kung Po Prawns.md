@@ -1,5 +1,8 @@
 !Name: Kung Po Prawns
 
+Description:
+![Kung Po Prawns](https://www.themealdb.com/images/media/meals/1525873040.jpg "Kung Po Prawns")
+
 Ingredients:
 - Prawns
 - Soy Sauce

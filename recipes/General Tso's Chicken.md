@@ -1,5 +1,8 @@
 !Name: General Tso's Chicken
 
+Description:
+![General Tso's Chicken](https://www.themealdb.com/images/media/meals/1529444113.jpg "General Tso's Chicken")
+
 Ingredients:
 - Chicken Breast
 - Plain Flour

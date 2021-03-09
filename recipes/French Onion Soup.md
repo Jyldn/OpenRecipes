@@ -1,5 +1,8 @@
 !Name: French Onion Soup
 
+Description:
+![French Onion Soup](https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg "French Onion Soup")
+
 Ingredients:
 - Butter
 - Olive Oil

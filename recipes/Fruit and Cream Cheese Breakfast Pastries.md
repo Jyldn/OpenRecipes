@@ -1,5 +1,8 @@
 !Name: Fruit and Cream Cheese Breakfast Pastries
 
+Description:
+![Fruit and Cream Cheese Breakfast Pastries](https://www.themealdb.com/images/media/meals/1543774956.jpg "Fruit and Cream Cheese Breakfast Pastries")
+
 Ingredients:
 - Cream Cheese
 - Sugar

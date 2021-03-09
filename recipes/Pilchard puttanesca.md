@@ -1,5 +1,8 @@
 !Name: Pilchard puttanesca
 
+Description:
+![Pilchard puttanesca](https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg "Pilchard puttanesca")
+
 Ingredients:
 - Spaghetti
 - Olive Oil

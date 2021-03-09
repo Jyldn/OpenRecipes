@@ -1,5 +1,8 @@
 !Name: Christmas cake
 
+Description:
+![Christmas cake](https://www.themealdb.com/images/media/meals/ldnrm91576791881.jpg "Christmas cake")
+
 Ingredients:
 - Butter
 - Muscovado Sugar

@@ -1,5 +1,8 @@
 !Name: Honey Yogurt Cheesecake
 
+Description:
+![Honey Yogurt Cheesecake](https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg "Honey Yogurt Cheesecake")
+
 Ingredients:
 - Digestive Biscuits
 - Almonds

@@ -1,5 +1,8 @@
 !Name: Chicken Fajita Mac and Cheese
 
+Description:
+![Chicken Fajita Mac and Cheese](https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg "Chicken Fajita Mac and Cheese")
+
 Ingredients:
 - macaroni
 - chicken stock

@@ -1,5 +1,8 @@
 !Name: Nutty Chicken Curry
 
+Description:
+![Nutty Chicken Curry](https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg "Nutty Chicken Curry")
+
 Ingredients:
 - Red Chilli
 - Ginger

@@ -1,5 +1,8 @@
 !Name: Nanaimo Bars
 
+Description:
+![Nanaimo Bars](https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg "Nanaimo Bars")
+
 Ingredients:
 - Custard
 - Caster Sugar

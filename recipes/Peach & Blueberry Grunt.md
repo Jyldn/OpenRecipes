@@ -1,5 +1,8 @@
 !Name: Peach & Blueberry Grunt
 
+Description:
+![Peach & Blueberry Grunt](https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg "Peach & Blueberry Grunt")
+
 Ingredients:
 - Corn Flour
 - Orange

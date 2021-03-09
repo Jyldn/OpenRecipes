@@ -1,5 +1,8 @@
 !Name: Home-made Mandazi
 
+Description:
+![Home-made Mandazi](https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg "Home-made Mandazi")
+
 Ingredients:
 - Self-raising Flour
 - Sugar

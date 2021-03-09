@@ -1,5 +1,8 @@
 !Name: Fettucine alfredo
 
+Description:
+![Fettucine alfredo](https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg "Fettucine alfredo")
+
 Ingredients:
 - Clotted Cream
 - Butter

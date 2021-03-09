@@ -1,5 +1,8 @@
 !Name: Beef Lo Mein
 
+Description:
+![Beef Lo Mein](https://www.themealdb.com/images/media/meals/1529444830.jpg "Beef Lo Mein")
+
 Ingredients:
 - Beef
 - Salt

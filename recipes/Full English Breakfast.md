@@ -1,5 +1,8 @@
 !Name: Full English Breakfast
 
+Description:
+![Full English Breakfast](https://www.themealdb.com/images/media/meals/sqrtwu1511721265.jpg "Full English Breakfast")
+
 Ingredients:
 - Sausages
 - Bacon

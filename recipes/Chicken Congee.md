@@ -1,5 +1,8 @@
 !Name: Chicken Congee
 
+Description:
+![Chicken Congee](https://www.themealdb.com/images/media/meals/1529446352.jpg "Chicken Congee")
+
 Ingredients:
 - Chicken
 - Salt

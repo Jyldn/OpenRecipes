@@ -1,5 +1,8 @@
 !Name: Lamb and Lemon Souvlaki
 
+Description:
+![Lamb and Lemon Souvlaki](https://www.themealdb.com/images/media/meals/rjhf741585564676.jpg "Lamb and Lemon Souvlaki")
+
 Ingredients:
 - Garlic
 - Sea Salt

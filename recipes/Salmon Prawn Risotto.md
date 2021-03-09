@@ -1,5 +1,8 @@
 !Name: Salmon Prawn Risotto
 
+Description:
+![Salmon Prawn Risotto](https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg "Salmon Prawn Risotto")
+
 Ingredients:
 - butter
 - onion

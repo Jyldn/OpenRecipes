@@ -1,5 +1,8 @@
 !Name: Chicken Couscous
 
+Description:
+![Chicken Couscous](https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg "Chicken Couscous")
+
 Ingredients:
 - Olive Oil
 - Onion

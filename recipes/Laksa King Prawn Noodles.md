@@ -1,5 +1,8 @@
 !Name: Laksa King Prawn Noodles
 
+Description:
+![Laksa King Prawn Noodles](https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg "Laksa King Prawn Noodles")
+
 Ingredients:
 - Olive Oil
 - red chili

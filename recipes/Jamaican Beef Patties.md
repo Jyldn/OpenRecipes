@@ -1,5 +1,8 @@
 !Name: Jamaican Beef Patties
 
+Description:
+![Jamaican Beef Patties](https://www.themealdb.com/images/media/meals/wsqqsw1515364068.jpg "Jamaican Beef Patties")
+
 Ingredients:
 - Plain Flour
 - Salt

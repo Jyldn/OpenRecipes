@@ -1,5 +1,8 @@
 !Name: Kumpir
 
+Description:
+![Kumpir](https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg "Kumpir")
+
 Ingredients:
 - Potatoes
 - Butter

@@ -1,5 +1,8 @@
 !Name: Carrot Cake
 
+Description:
+![Carrot Cake](https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg "Carrot Cake")
+
 Ingredients:
 - Vegetable Oil
 - Plain Flour

@@ -1,5 +1,8 @@
 !Name: Chickpea Fajitas
 
+Description:
+![Chickpea Fajitas](https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg "Chickpea Fajitas")
+
 Ingredients:
 - Chickpeas
 - Olive Oil

@@ -1,5 +1,8 @@
 !Name: Squash linguine
 
+Description:
+![Squash linguine](https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg "Squash linguine")
+
 Ingredients:
 - Butternut Squash
 - Garlic

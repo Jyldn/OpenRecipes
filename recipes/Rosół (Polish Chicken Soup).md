@@ -1,5 +1,8 @@
 !Name: Rosół (Polish Chicken Soup)
 
+Description:
+![Rosół (Polish Chicken Soup)](https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg "Rosół (Polish Chicken Soup)")
+
 Ingredients:
 - Chicken Legs
 - Onions

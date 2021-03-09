@@ -1,5 +1,8 @@
 !Name: Polskie Naleśniki (Polish Pancakes)
 
+Description:
+![Polskie Naleśniki (Polish Pancakes)](https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg "Polskie Naleśniki (Polish Pancakes)")
+
 Ingredients:
 - Flour
 - Eggs

@@ -1,5 +1,8 @@
 !Name: Honey Teriyaki Salmon
 
+Description:
+![Honey Teriyaki Salmon](https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg "Honey Teriyaki Salmon")
+
 Ingredients:
 - Salmon
 - Olive oil

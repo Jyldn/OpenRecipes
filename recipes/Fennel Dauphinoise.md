@@ -1,5 +1,8 @@
 !Name: Fennel Dauphinoise
 
+Description:
+![Fennel Dauphinoise](https://www.themealdb.com/images/media/meals/ytttsv1511798734.jpg "Fennel Dauphinoise")
+
 Ingredients:
 - Potatoes
 - Fennel

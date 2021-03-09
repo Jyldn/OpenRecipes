@@ -1,5 +1,8 @@
 !Name: Summer Pudding
 
+Description:
+![Summer Pudding](https://www.themealdb.com/images/media/meals/rsqwus1511640214.jpg "Summer Pudding")
+
 Ingredients:
 - Strawberries
 - Blackberries

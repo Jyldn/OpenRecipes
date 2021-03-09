@@ -1,5 +1,8 @@
 !Name: Breakfast Potatoes
 
+Description:
+![Breakfast Potatoes](https://www.themealdb.com/images/media/meals/1550441882.jpg "Breakfast Potatoes")
+
 Ingredients:
 - Potatoes
 - Olive Oil

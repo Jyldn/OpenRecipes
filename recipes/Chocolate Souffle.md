@@ -1,5 +1,8 @@
 !Name: Chocolate Souffle
 
+Description:
+![Chocolate Souffle](https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg "Chocolate Souffle")
+
 Ingredients:
 - Single Cream
 - Caster Sugar

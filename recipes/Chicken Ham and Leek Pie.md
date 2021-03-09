@@ -1,5 +1,8 @@
 !Name: Chicken Ham and Leek Pie
 
+Description:
+![Chicken Ham and Leek Pie](https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg "Chicken Ham and Leek Pie")
+
 Ingredients:
 - Chicken Stock
 - Chicken Breast

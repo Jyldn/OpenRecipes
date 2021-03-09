@@ -1,5 +1,8 @@
 !Name: Lamb Rogan josh
 
+Description:
+![Lamb Rogan josh](https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg "Lamb Rogan josh")
+
 Ingredients:
 - Onion
 - Sunflower Oil

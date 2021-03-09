@@ -1,5 +1,8 @@
 !Name: Fish Stew with Rouille
 
+Description:
+![Fish Stew with Rouille](https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg "Fish Stew with Rouille")
+
 Ingredients:
 - Prawns
 - Olive Oil

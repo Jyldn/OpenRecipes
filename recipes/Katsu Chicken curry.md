@@ -1,5 +1,8 @@
 !Name: Katsu Chicken curry
 
+Description:
+![Katsu Chicken curry](https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg "Katsu Chicken curry")
+
 Ingredients:
 - chicken breast
 - plain flour

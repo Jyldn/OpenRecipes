@@ -1,5 +1,8 @@
 !Name: Portuguese fish stew (Caldeirada de peixe)
 
+Description:
+![Portuguese fish stew (Caldeirada de peixe)](https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg "Portuguese fish stew (Caldeirada de peixe)")
+
 Ingredients:
 - Onions
 - Red Pepper

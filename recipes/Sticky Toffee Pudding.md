@@ -1,5 +1,8 @@
 !Name: Sticky Toffee Pudding
 
+Description:
+![Sticky Toffee Pudding](https://www.themealdb.com/images/media/meals/xqqqtu1511637379.jpg "Sticky Toffee Pudding")
+
 Ingredients:
 - Butter
 - Muscovado Sugar

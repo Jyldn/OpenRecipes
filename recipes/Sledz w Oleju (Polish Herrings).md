@@ -1,5 +1,8 @@
 !Name: Sledz w Oleju (Polish Herrings)
 
+Description:
+![Sledz w Oleju (Polish Herrings)](https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg "Sledz w Oleju (Polish Herrings)")
+
 Ingredients:
 - Herring
 - Onion

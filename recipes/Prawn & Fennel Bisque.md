@@ -1,5 +1,8 @@
 !Name: Prawn & Fennel Bisque
 
+Description:
+![Prawn & Fennel Bisque](https://www.themealdb.com/images/media/meals/rtwwvv1511799504.jpg "Prawn & Fennel Bisque")
+
 Ingredients:
 - Tiger Prawns
 - Olive Oil

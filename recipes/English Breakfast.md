@@ -1,5 +1,8 @@
 !Name: English Breakfast
 
+Description:
+![English Breakfast](https://www.themealdb.com/images/media/meals/utxryw1511721587.jpg "English Breakfast")
+
 Ingredients:
 - Sausages
 - Bacon

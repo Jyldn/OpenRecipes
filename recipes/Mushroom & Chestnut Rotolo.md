@@ -1,5 +1,8 @@
 !Name: Mushroom & Chestnut Rotolo
 
+Description:
+![Mushroom & Chestnut Rotolo](https://www.themealdb.com/images/media/meals/ssyqwr1511451678.jpg "Mushroom & Chestnut Rotolo")
+
 Ingredients:
 - Mushrooms
 - Chestnuts

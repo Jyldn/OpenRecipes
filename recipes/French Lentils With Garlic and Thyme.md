@@ -1,5 +1,8 @@
 !Name: French Lentils With Garlic and Thyme
 
+Description:
+![French Lentils With Garlic and Thyme](https://www.themealdb.com/images/media/meals/vwwspt1487394060.jpg "French Lentils With Garlic and Thyme")
+
 Ingredients:
 - Olive Oil
 - Onion

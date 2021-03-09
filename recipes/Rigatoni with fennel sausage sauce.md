@@ -1,5 +1,8 @@
 !Name: Rigatoni with fennel sausage sauce
 
+Description:
+![Rigatoni with fennel sausage sauce](https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg "Rigatoni with fennel sausage sauce")
+
 Ingredients:
 - olive oil
 - Italian fennel sausages

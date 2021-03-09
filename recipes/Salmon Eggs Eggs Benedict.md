@@ -1,5 +1,8 @@
 !Name: Salmon Eggs Eggs Benedict
 
+Description:
+![Salmon Eggs Eggs Benedict](https://www.themealdb.com/images/media/meals/1550440197.jpg "Salmon Eggs Eggs Benedict")
+
 Ingredients:
 - Eggs
 - White Wine Vinegar

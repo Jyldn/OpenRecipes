@@ -1,5 +1,8 @@
 !Name: Vegan Chocolate Cake
 
+Description:
+![Vegan Chocolate Cake](https://www.themealdb.com/images/media/meals/qxutws1486978099.jpg "Vegan Chocolate Cake")
+
 Ingredients:
 - self raising flour
 - coco sugar

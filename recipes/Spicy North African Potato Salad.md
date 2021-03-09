@@ -1,5 +1,8 @@
 !Name: Spicy North African Potato Salad
 
+Description:
+![Spicy North African Potato Salad](https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg "Spicy North African Potato Salad")
+
 Ingredients:
 - Small Potatoes
 - Harissa Spice

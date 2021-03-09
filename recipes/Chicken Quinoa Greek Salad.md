@@ -1,5 +1,8 @@
 !Name: Chicken Quinoa Greek Salad
 
+Description:
+![Chicken Quinoa Greek Salad](https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg "Chicken Quinoa Greek Salad")
+
 Ingredients:
 - Quinoa
 - Butter

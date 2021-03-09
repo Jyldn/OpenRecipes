@@ -1,5 +1,8 @@
 !Name: Duck Confit
 
+Description:
+![Duck Confit](https://www.themealdb.com/images/media/meals/wvpvsu1511786158.jpg "Duck Confit")
+
 Ingredients:
 - Sea Salt
 - Bay Leaf

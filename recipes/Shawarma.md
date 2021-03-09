@@ -1,5 +1,8 @@
 !Name: Shawarma
 
+Description:
+![Shawarma](https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg "Shawarma")
+
 Ingredients:
 - Chicken Thighs
 - Coriander

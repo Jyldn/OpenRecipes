@@ -1,5 +1,8 @@
 !Name: Chicken Parmentier
 
+Description:
+![Chicken Parmentier](https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg "Chicken Parmentier")
+
 Ingredients:
 - Potatoes
 - Butter

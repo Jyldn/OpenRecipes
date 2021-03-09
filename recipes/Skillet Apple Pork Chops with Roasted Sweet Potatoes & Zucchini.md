@@ -1,5 +1,8 @@
 !Name: Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini
 
+Description:
+![Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini](https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini")
+
 Ingredients:
 - Potatoes
 - Apples

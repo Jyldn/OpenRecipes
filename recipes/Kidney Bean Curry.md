@@ -1,5 +1,8 @@
 !Name: Kidney Bean Curry
 
+Description:
+![Kidney Bean Curry](https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg "Kidney Bean Curry")
+
 Ingredients:
 - Vegetable Oil
 - Onion

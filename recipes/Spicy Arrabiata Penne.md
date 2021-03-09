@@ -1,5 +1,8 @@
 !Name: Spicy Arrabiata Penne
 
+Description:
+![Spicy Arrabiata Penne](https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg "Spicy Arrabiata Penne")
+
 Ingredients:
 - penne rigate
 - olive oil

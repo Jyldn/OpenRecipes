@@ -1,5 +1,8 @@
 !Name: Stamppot
 
+Description:
+![Stamppot](https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg "Stamppot")
+
 Ingredients:
 - Potatoes
 - Bay Leaf
@@ -13,6 +16,7 @@ Ingredients:
 - Pepper
 
 Directions:
+- 
 - Wash and peel the potatoes and cut into similarly sized pieces for even cooking
 - In a large soup pot, boil the potatoes and the bay leaves in salted water for 20 minutes. Discard the bay leaves
 - If you're not using a bag of ready-cut curly kale, wash the bunches thoroughly under cool running water to get rid of all soil—you wouldn't want that gritty texture in your finished dish. Trim any coarse stems and discard any brown leaves. With a sharp knife, cut the curly kale into thin strips

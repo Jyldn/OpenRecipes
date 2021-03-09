@@ -1,5 +1,8 @@
 !Name: Rogaliki (Polish Croissant Cookies)
 
+Description:
+![Rogaliki (Polish Croissant Cookies)](https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg "Rogaliki (Polish Croissant Cookies)")
+
 Ingredients:
 - Butter
 - Egg Yolks

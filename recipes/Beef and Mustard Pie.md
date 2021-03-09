@@ -1,5 +1,8 @@
 !Name: Beef and Mustard Pie
 
+Description:
+![Beef and Mustard Pie](https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg "Beef and Mustard Pie")
+
 Ingredients:
 - Beef
 - Plain Flour

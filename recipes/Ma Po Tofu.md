@@ -1,5 +1,8 @@
 !Name: Ma Po Tofu
 
+Description:
+![Ma Po Tofu](https://www.themealdb.com/images/media/meals/1525874812.jpg "Ma Po Tofu")
+
 Ingredients:
 - Tofu
 - Minced Beef

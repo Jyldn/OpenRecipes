@@ -1,5 +1,8 @@
 !Name: Saltfish and Ackee
 
+Description:
+![Saltfish and Ackee](https://www.themealdb.com/images/media/meals/vytypy1511883765.jpg "Saltfish and Ackee")
+
 Ingredients:
 - Salt Cod
 - Ackee

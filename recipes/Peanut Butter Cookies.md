@@ -1,5 +1,8 @@
 !Name: Peanut Butter Cookies
 
+Description:
+![Peanut Butter Cookies](https://www.themealdb.com/images/media/meals/1544384070.jpg "Peanut Butter Cookies")
+
 Ingredients:
 - Peanut Butter
 - Sugar

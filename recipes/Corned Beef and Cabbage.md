@@ -1,5 +1,8 @@
 !Name: Corned Beef and Cabbage
 
+Description:
+![Corned Beef and Cabbage](https://www.themealdb.com/images/media/meals/xb97a81583266727.jpg "Corned Beef and Cabbage")
+
 Ingredients:
 - Beef Brisket
 - Small Potatoes

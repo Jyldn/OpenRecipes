@@ -1,5 +1,8 @@
 !Name: Vegetarian Casserole
 
+Description:
+![Vegetarian Casserole](https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg "Vegetarian Casserole")
+
 Ingredients:
 - Rapeseed Oil
 - Onion

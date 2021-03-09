@@ -1,5 +1,8 @@
 !Name: Classic Christmas pudding
 
+Description:
+![Classic Christmas pudding](https://www.themealdb.com/images/media/meals/1d85821576790598.jpg "Classic Christmas pudding")
+
 Ingredients:
 - Almonds
 - Bramley Apples

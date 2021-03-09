@@ -1,5 +1,8 @@
 !Name: Thai Green Curry
 
+Description:
+![Thai Green Curry](https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg "Thai Green Curry")
+
 Ingredients:
 - potatoes
 - green beans

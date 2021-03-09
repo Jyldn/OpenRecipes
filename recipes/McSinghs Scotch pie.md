@@ -1,5 +1,8 @@
 !Name: McSinghs Scotch pie
 
+Description:
+![McSinghs Scotch pie](https://www.themealdb.com/images/media/meals/vssrtx1511557680.jpg "McSinghs Scotch pie")
+
 Ingredients:
 - Cumin
 - Rapeseed Oil

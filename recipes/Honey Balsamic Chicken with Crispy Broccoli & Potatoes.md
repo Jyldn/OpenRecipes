@@ -1,5 +1,8 @@
 !Name: Honey Balsamic Chicken with Crispy Broccoli & Potatoes
 
+Description:
+![Honey Balsamic Chicken with Crispy Broccoli & Potatoes](https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg "Honey Balsamic Chicken with Crispy Broccoli & Potatoes")
+
 Ingredients:
 - Potatoes
 - Broccoli

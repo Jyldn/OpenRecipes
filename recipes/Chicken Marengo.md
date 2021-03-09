@@ -1,5 +1,8 @@
 !Name: Chicken Marengo
 
+Description:
+![Chicken Marengo](https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg "Chicken Marengo")
+
 Ingredients:
 - Olive Oil
 - Mushrooms

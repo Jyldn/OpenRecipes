@@ -1,5 +1,8 @@
 !Name: Battenberg Cake
 
+Description:
+![Battenberg Cake](https://www.themealdb.com/images/media/meals/ywwrsp1511720277.jpg "Battenberg Cake")
+
 Ingredients:
 - Butter
 - Caster Sugar

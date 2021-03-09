@@ -1,5 +1,8 @@
 !Name: French Onion Chicken with Roasted Carrots & Mashed Potatoes
 
+Description:
+![French Onion Chicken with Roasted Carrots & Mashed Potatoes](https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg "French Onion Chicken with Roasted Carrots & Mashed Potatoes")
+
 Ingredients:
 - Chicken Breasts
 - Carrots

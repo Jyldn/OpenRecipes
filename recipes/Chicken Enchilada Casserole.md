@@ -1,5 +1,8 @@
 !Name: Chicken Enchilada Casserole
 
+Description:
+![Chicken Enchilada Casserole](https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg "Chicken Enchilada Casserole")
+
 Ingredients:
 - Enchilada sauce
 - shredded Monterey Jack cheese

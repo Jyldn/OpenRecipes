@@ -1,5 +1,8 @@
 !Name: Moroccan Carrot Soup
 
+Description:
+![Moroccan Carrot Soup](https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg "Moroccan Carrot Soup")
+
 Ingredients:
 - Carrots
 - Onion

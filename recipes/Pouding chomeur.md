@@ -1,5 +1,8 @@
 !Name: Pouding chomeur
 
+Description:
+![Pouding chomeur](https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg "Pouding chomeur")
+
 Ingredients:
 - Butter
 - Sugar

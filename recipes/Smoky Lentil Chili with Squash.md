@@ -1,5 +1,8 @@
 !Name: Smoky Lentil Chili with Squash
 
+Description:
+![Smoky Lentil Chili with Squash](https://www.themealdb.com/images/media/meals/uwxqwy1483389553.jpg "Smoky Lentil Chili with Squash")
+
 Ingredients:
 - Olive Oil
 - Onion

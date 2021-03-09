@@ -1,5 +1,8 @@
 !Name: Shakshuka
 
+Description:
+![Shakshuka](https://www.themealdb.com/images/media/meals/g373701551450225.jpg "Shakshuka")
+
 Ingredients:
 - Olive Oil
 - Red Onions

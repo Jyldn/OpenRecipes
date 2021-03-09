@@ -1,5 +1,8 @@
 !Name: Choc Chip Pecan Pie
 
+Description:
+![Choc Chip Pecan Pie](https://www.themealdb.com/images/media/meals/rqvwxt1511384809.jpg "Choc Chip Pecan Pie")
+
 Ingredients:
 - Plain Flour
 - Butter

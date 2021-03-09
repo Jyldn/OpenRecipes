@@ -1,5 +1,8 @@
 !Name: Banana Pancakes
 
+Description:
+![Banana Pancakes](https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg "Banana Pancakes")
+
 Ingredients:
 - Banana
 - Eggs

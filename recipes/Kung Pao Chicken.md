@@ -1,5 +1,8 @@
 !Name: Kung Pao Chicken
 
+Description:
+![Kung Pao Chicken](https://www.themealdb.com/images/media/meals/1525872624.jpg "Kung Pao Chicken")
+
 Ingredients:
 - Sake
 - Soy Sauce

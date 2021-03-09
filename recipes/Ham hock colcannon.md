@@ -1,5 +1,8 @@
 !Name: Ham hock colcannon
 
+Description:
+![Ham hock colcannon](https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg "Ham hock colcannon")
+
 Ingredients:
 - Floury Potatoes
 - Butter

@@ -1,5 +1,8 @@
 !Name: Crock Pot Chicken Baked Tacos
 
+Description:
+![Crock Pot Chicken Baked Tacos](https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg "Crock Pot Chicken Baked Tacos")
+
 Ingredients:
 - Chicken Breasts
 - Vinaigrette Dressing

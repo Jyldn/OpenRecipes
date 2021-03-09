@@ -1,5 +1,8 @@
 !Name: Teriyaki Chicken Casserole
 
+Description:
+![Teriyaki Chicken Casserole](https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg "Teriyaki Chicken Casserole")
+
 Ingredients:
 - soy sauce
 - water

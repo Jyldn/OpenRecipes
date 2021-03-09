@@ -1,5 +1,8 @@
 !Name: Tandoori chicken
 
+Description:
+![Tandoori chicken](https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg "Tandoori chicken")
+
 Ingredients:
 - lemons
 - paprika

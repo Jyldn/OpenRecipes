@@ -1,5 +1,8 @@
 !Name: Pancakes
 
+Description:
+![Pancakes](https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg "Pancakes")
+
 Ingredients:
 - Flour
 - Eggs

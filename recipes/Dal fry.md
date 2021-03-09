@@ -1,5 +1,8 @@
 !Name: Dal fry
 
+Description:
+![Dal fry](https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg "Dal fry")
+
 Ingredients:
 - Toor dal
 - Water

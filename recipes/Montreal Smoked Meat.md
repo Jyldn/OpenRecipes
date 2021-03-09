@@ -1,5 +1,8 @@
 !Name: Montreal Smoked Meat
 
+Description:
+![Montreal Smoked Meat](https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg "Montreal Smoked Meat")
+
 Ingredients:
 - Beef Brisket
 - Salt

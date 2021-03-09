@@ -1,5 +1,8 @@
 !Name: Spinach & Ricotta Cannelloni
 
+Description:
+![Spinach & Ricotta Cannelloni](https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg "Spinach & Ricotta Cannelloni")
+
 Ingredients:
 - Olive Oil
 - Garlic

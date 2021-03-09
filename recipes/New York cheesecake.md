@@ -1,5 +1,8 @@
 !Name: New York cheesecake
 
+Description:
+![New York cheesecake](https://www.themealdb.com/images/media/meals/swttys1511385853.jpg "New York cheesecake")
+
 Ingredients:
 - Butter
 - Sour Cream

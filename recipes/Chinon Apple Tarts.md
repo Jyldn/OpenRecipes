@@ -1,5 +1,8 @@
 !Name: Chinon Apple Tarts
 
+Description:
+![Chinon Apple Tarts](https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg "Chinon Apple Tarts")
+
 Ingredients:
 - Puff Pastry
 - Dark Brown Soft Sugar

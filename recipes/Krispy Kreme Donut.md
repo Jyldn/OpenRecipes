@@ -1,5 +1,8 @@
 !Name: Krispy Kreme Donut
 
+Description:
+![Krispy Kreme Donut](https://www.themealdb.com/images/media/meals/4i5cnx1587672171.jpg "Krispy Kreme Donut")
+
 Ingredients:
 - Yeast
 - Water

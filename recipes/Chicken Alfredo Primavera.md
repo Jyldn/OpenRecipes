@@ -1,5 +1,8 @@
 !Name: Chicken Alfredo Primavera
 
+Description:
+![Chicken Alfredo Primavera](https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg "Chicken Alfredo Primavera")
+
 Ingredients:
 - Butter
 - Olive Oil

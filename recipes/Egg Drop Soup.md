@@ -1,5 +1,8 @@
 !Name: Egg Drop Soup
 
+Description:
+![Egg Drop Soup](https://www.themealdb.com/images/media/meals/1529446137.jpg "Egg Drop Soup")
+
 Ingredients:
 - Chicken Stock
 - Salt

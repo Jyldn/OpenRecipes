@@ -1,5 +1,8 @@
 !Name: Creamy Tomato Soup
 
+Description:
+![Creamy Tomato Soup](https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg "Creamy Tomato Soup")
+
 Ingredients:
 - Olive Oil
 - Onions

@@ -1,5 +1,8 @@
 !Name: Vegetable Shepherd’s Pie
 
+Description:
+![Vegetable Shepherd’s Pie](https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg "Vegetable Shepherd’s Pie")
+
 Ingredients:
 - Potatoes
 - Small Potatoes

@@ -1,5 +1,8 @@
 !Name: Gołąbki (cabbage roll)
 
+Description:
+![Gołąbki (cabbage roll)](https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg "Gołąbki (cabbage roll)")
+
 Ingredients:
 - Cabbage
 - Butter

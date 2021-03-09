@@ -1,5 +1,8 @@
 !Name: Crispy Sausages and Greens
 
+Description:
+![Crispy Sausages and Greens](https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg "Crispy Sausages and Greens")
+
 Ingredients:
 - Kale
 - Italian Fennel Sausages

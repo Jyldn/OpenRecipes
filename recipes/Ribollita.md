@@ -1,5 +1,8 @@
 !Name: Ribollita
 
+Description:
+![Ribollita](https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg "Ribollita")
+
 Ingredients:
 - Olive Oil
 - Onion

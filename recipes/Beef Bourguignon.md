@@ -1,5 +1,8 @@
 !Name: Beef Bourguignon
 
+Description:
+![Beef Bourguignon](https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg "Beef Bourguignon")
+
 Ingredients:
 - Goose Fat
 - Beef Shin

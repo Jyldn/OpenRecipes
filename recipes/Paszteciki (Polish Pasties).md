@@ -1,5 +1,8 @@
 !Name: Paszteciki (Polish Pasties)
 
+Description:
+![Paszteciki (Polish Pasties)](https://www.themealdb.com/images/media/meals/c9a3l31593261890.jpg "Paszteciki (Polish Pasties)")
+
 Ingredients:
 - Flour
 - Salt

@@ -1,5 +1,8 @@
 !Name: Piri-piri chicken and slaw
 
+Description:
+![Piri-piri chicken and slaw](https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg "Piri-piri chicken and slaw")
+
 Ingredients:
 - Chicken
 - Red Chilli

@@ -1,5 +1,8 @@
 !Name: Broccoli & Stilton soup
 
+Description:
+![Broccoli & Stilton soup](https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg "Broccoli & Stilton soup")
+
 Ingredients:
 - Rapeseed Oil
 - Onion
