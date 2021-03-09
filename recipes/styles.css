@@ -2,3 +2,15 @@ body {
 	width: 70%;
 	margin: auto;
 }
+
+img {
+	display: block;
+	margin: auto;
+	padding-top: 3em;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 10pt;
+	font-style: italic;
+}
