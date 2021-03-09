@@ -1,4 +1,4 @@
-all:sbcl-check quicklisp-check recipes
+all:sbcl-check quicklisp-check all-recipes
 
 all-recipes:
 	@sbcl --noinform --load openrecipes.lisp
